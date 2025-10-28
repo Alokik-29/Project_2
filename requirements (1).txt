@@ -1,0 +1,11 @@
+gradio
+langchain
+langchain-community
+langchain-huggingface
+transformers
+accelerate
+bitsandbytes
+chromadb
+sqlalchemy
+huggingface_hub
+pandas
